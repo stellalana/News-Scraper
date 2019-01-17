@@ -1,0 +1,35 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "a web app that lets users view and leave comments on the latest news. Mongoose and Cheerio are utilized to scrape news from another site.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellalana/News-Scraper.git"
+  },
+  "keywords": [
+    "News",
+    "scrape",
+    "mongoose",
+    "cheerio",
+    "mongodb"
+  ],
+  "author": "Stella L. Griffith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stellalana/News-Scraper/issues"
+  },
+  "homepage": "https://github.com/stellalana/News-Scraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.4",
+    "morgan": "^1.9.1"
+  }
+}
