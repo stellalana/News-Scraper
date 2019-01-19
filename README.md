@@ -1,6 +1,6 @@
 # News-Scraper
 ## Link to deployed web app:
-https://newsscraperwebapp.herokuapp.com/
+https://gentle-reaches-62194.herokuapp.com/
 
 ### Details
 A web app that lets users view and leave comments on the latest Snopes.com headlines. 
